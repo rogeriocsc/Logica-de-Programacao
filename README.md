@@ -18,3 +18,8 @@ Lógica de Programação com Portugol e VisuaG
     do português. Isso ajuda a reduzir a barreira inicial que muitos enfrentam ao tentar aprender a programar.
 </P>
 
+<p>
+    <li>Comando de Entrada de Dados</li>
+    <li>Comando de Saída de Dados</li>
+    <li>Processamento de Dados</li>
+</p>
