@@ -1,6 +1,6 @@
 Algoritmo "calculoDelta"
-// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
-// Descriï¿½ï¿½o   : Equaï¿½ï¿½o axï¿½ + bx + c = 0   Delta = bï¿½ - 4ac
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Descrição   : Equação ax² + bx + c = 0   Delta = b² - 4ac
 // Autor(a)    : Rogerio Curtio
 // Data atual  : 29/04/2025
 Var
@@ -16,12 +16,12 @@ Inicio
       Leia(B)
       Escreva("Informe o valor de C: ")
       Leia(C)
-
+      
       // Processamento
       delta <- (B ^ 2) - 4 * A * C
-
-      // SaÃ­da
-      Escreval("axï¿½ =", A)
+      
+      // Saída
+      Escreval("ax² =", A)
       Escreval("bx =", B)
       Escreval("c =", C)
       Escreva("Resultado Delta =", delta)
