@@ -1,8 +1,8 @@
 Algoritmo "verificaIdade"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Utilizar estrutura condicional Composta
-// e verificar a idade e imprimir uma mensagem apropriada com base na condição.
+// Descrição   : Utilizar estrutura condicional Composta,
+// e verificar a idade, imprimir uma mensagem apropriada com base na condição.
 // Autor(a)    : Rogerio Curtio
 // Data atual  : 02/05/2025
 Var
