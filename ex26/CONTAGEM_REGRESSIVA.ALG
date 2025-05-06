@@ -15,5 +15,4 @@ Inicio
           // Decrementar
           i <- i - 1
       Ate i < 1
-
 Fimalgoritmo

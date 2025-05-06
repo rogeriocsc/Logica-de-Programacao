@@ -9,12 +9,10 @@ Var
    i : Inteiro
 
 Inicio
-
       // Contagem Regressiva
       i <- 20
       Enquanto (i >= 0) Faça
            Escreva(i)
            i <- i - 1
       FimEnquanto
-
 Fimalgoritmo

@@ -7,9 +7,7 @@ Algoritmo "Contagem_Progressiva"
 Var
    i : Inteiro
 
-
 Inicio
-
       // Inicializar
       i <- 1
       Repita
@@ -17,5 +15,4 @@ Inicio
           // incrementar
           i <- i + 1
       Ate i > 40
-
 Fimalgoritmo

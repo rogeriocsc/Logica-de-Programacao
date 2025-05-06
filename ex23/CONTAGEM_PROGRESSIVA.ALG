@@ -16,5 +16,4 @@ Inicio
            Escreva(i)
            i <- i + 1
       FimEnquanto
-
 Fimalgoritmo
