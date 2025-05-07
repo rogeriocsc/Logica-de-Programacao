@@ -10,9 +10,9 @@ Var
    
 Funcao parImpar(vl: Inteiro): Caractere
 Inicio
-      Se (vl%2 = 0) entao
+      Se (vl % 2 = 0) Entao
          Retorne "PAR"
-      senao
+      Senao
            Retorne "IMPAR"
       FimSe
 FimFuncao
