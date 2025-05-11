@@ -11,7 +11,7 @@ Inicio
     // Entrada de Dados para o Vetor
     Para i de 0 Até 4 Faça
          Escreva("Digite um Valor: ")
-    Leia(vetorA[i])
+         Leia(vetorA[i])
     FimPara
 
     // Saída de Dados para o Vetor
