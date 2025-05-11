@@ -22,4 +22,5 @@ Lógica de Programação com Portugol e VisuaG
     <li>Comando de Entrada de Dados</li>
     <li>Comando de Saída de Dados</li>
     <li>Processamento de Dados</li>
+    <li><a href="https://github.com/rogeriocsc/apostilaVisualG" target="_blank">Ebook VisualG</a></li>
 </p>
